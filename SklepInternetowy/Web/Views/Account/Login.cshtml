@@ -1,0 +1,14 @@
+﻿@model Web.Models.LoginViewModel
+
+@{
+    ViewBag.Title = "Administracja: logowanie";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2>Login: </h2>
+<p>Proszę się zalogować, aby uzyskać dostęp do obszaru administracyjnego:</p>
+@using( Html.BeginForm()){
+    @Html.ValidationSummary(true)
+    @Html.EditorForModel()
+    <p><input type="submit" value="Zaloguj się" /></p>
+}

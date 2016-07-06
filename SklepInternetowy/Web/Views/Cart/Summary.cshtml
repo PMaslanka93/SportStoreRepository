@@ -1,0 +1,10 @@
+﻿@model Domain.Entities.Cart
+<div id="cart">
+    <span class="caption">
+        <b>Twój koszyk:</b>
+        @Model.Lines.Sum(x => x.Quantity) sztuk,
+        @Model.CamputeTotalValue().ToString("c")
+    </span>
+    @Html.ActionLink("Zamów", "Index", "Cart",
+new { returnUrl = Request.Url.PathAndQuery }, null)
+</div>

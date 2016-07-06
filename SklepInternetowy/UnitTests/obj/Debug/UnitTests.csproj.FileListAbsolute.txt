@@ -1,0 +1,17 @@
+c:\users\paweł\documents\visual studio 2013\Projects\SklepInternetowy\UnitTests\bin\Debug\UnitTests.dll
+c:\users\paweł\documents\visual studio 2013\Projects\SklepInternetowy\UnitTests\bin\Debug\UnitTests.pdb
+c:\users\paweł\documents\visual studio 2013\Projects\SklepInternetowy\UnitTests\bin\Debug\Castle.Core.dll
+c:\users\paweł\documents\visual studio 2013\Projects\SklepInternetowy\UnitTests\bin\Debug\Moq.dll
+c:\users\paweł\documents\visual studio 2013\Projects\SklepInternetowy\UnitTests\bin\Debug\Ninject.dll
+c:\users\paweł\documents\visual studio 2013\Projects\SklepInternetowy\UnitTests\bin\Debug\Castle.Core.xml
+c:\users\paweł\documents\visual studio 2013\Projects\SklepInternetowy\UnitTests\bin\Debug\Moq.xml
+c:\users\paweł\documents\visual studio 2013\Projects\SklepInternetowy\UnitTests\bin\Debug\Ninject.xml
+c:\users\paweł\documents\visual studio 2013\Projects\SklepInternetowy\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+c:\users\paweł\documents\visual studio 2013\Projects\SklepInternetowy\UnitTests\obj\Debug\UnitTests.dll
+c:\users\paweł\documents\visual studio 2013\Projects\SklepInternetowy\UnitTests\obj\Debug\UnitTests.pdb
+C:\Users\Paweł\Documents\Visual Studio 2013\Projects\SklepInternetowy\UnitTests\bin\Debug\Domain.dll
+C:\Users\Paweł\Documents\Visual Studio 2013\Projects\SklepInternetowy\UnitTests\bin\Debug\Web.dll
+C:\Users\Paweł\Documents\Visual Studio 2013\Projects\SklepInternetowy\UnitTests\bin\Debug\EntityFramework.dll
+C:\Users\Paweł\Documents\Visual Studio 2013\Projects\SklepInternetowy\UnitTests\bin\Debug\Domain.pdb
+C:\Users\Paweł\Documents\Visual Studio 2013\Projects\SklepInternetowy\UnitTests\bin\Debug\Web.pdb
+C:\Users\Paweł\Documents\Visual Studio 2013\Projects\SklepInternetowy\UnitTests\bin\Debug\EntityFramework.xml
